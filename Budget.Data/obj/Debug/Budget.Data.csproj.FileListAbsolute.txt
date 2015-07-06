@@ -1,0 +1,16 @@
+C:\prj\Budget\Budget.Data\obj\Debug\Budget.Data.csprojResolveAssemblyReference.cache
+C:\prj\Budget\Budget.Data\bin\Debug\Budget.Data.dll.config
+C:\prj\Budget\Budget.Data\bin\Debug\Budget.Data.dll
+C:\prj\Budget\Budget.Data\bin\Debug\Budget.Data.pdb
+C:\prj\Budget\Budget.Data\bin\Debug\Autofac.dll
+C:\prj\Budget\Budget.Data\bin\Debug\Budget.Domain.dll
+C:\prj\Budget\Budget.Data\bin\Debug\Budget.EF.dll
+C:\prj\Budget\Budget.Data\bin\Debug\EntityFramework.dll
+C:\prj\Budget\Budget.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\prj\Budget\Budget.Data\bin\Debug\Budget.Domain.pdb
+C:\prj\Budget\Budget.Data\bin\Debug\Budget.EF.pdb
+C:\prj\Budget\Budget.Data\bin\Debug\Autofac.xml
+C:\prj\Budget\Budget.Data\bin\Debug\EntityFramework.xml
+C:\prj\Budget\Budget.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\prj\Budget\Budget.Data\obj\Debug\Budget.Data.dll
+C:\prj\Budget\Budget.Data\obj\Debug\Budget.Data.pdb

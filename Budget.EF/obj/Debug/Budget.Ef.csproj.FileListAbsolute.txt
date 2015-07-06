@@ -1,0 +1,15 @@
+C:\prj\Budget\Budget.EF\bin\Debug\Budget.EF.dll.config
+C:\prj\Budget\Budget.EF\bin\Debug\Budget.EF.dll
+C:\prj\Budget\Budget.EF\bin\Debug\Budget.EF.pdb
+C:\prj\Budget\Budget.EF\bin\Debug\Budget.Domain.dll
+C:\prj\Budget\Budget.EF\bin\Debug\EntityFramework.dll
+C:\prj\Budget\Budget.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\prj\Budget\Budget.EF\bin\Debug\Budget.Domain.pdb
+C:\prj\Budget\Budget.EF\bin\Debug\EntityFramework.xml
+C:\prj\Budget\Budget.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\prj\Budget\Budget.EF\obj\Debug\Budget.Ef.csprojResolveAssemblyReference.cache
+C:\prj\Budget\Budget.EF\obj\Debug\Budget.EF.Migrations.InitialDb.resources
+C:\prj\Budget\Budget.EF\obj\Debug\Budget.Ef.csproj.GenerateResource.Cache
+C:\prj\Budget\Budget.EF\obj\Debug\Budget.EF.dll
+C:\prj\Budget\Budget.EF\obj\Debug\Budget.EF.pdb
+C:\prj\Budget\Budget.EF\obj\Debug\Budget.EF.Migrations.BudgetDatabase.resources

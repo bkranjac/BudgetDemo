@@ -1,0 +1,4 @@
+C:\prj\Budget\Budget.Domain\bin\Debug\Budget.Domain.dll
+C:\prj\Budget\Budget.Domain\bin\Debug\Budget.Domain.pdb
+C:\prj\Budget\Budget.Domain\obj\Debug\Budget.Domain.dll
+C:\prj\Budget\Budget.Domain\obj\Debug\Budget.Domain.pdb
